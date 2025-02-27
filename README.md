@@ -1,8 +1,8 @@
 /*
  * Simulação de Movimentação de Peças de Xadrez
  *
- * Autor: [Seu Nome]
- * Data: [Data de Criação]
+ * Autor: [Edson de Oliveira Andrade]
+ * Data: [27-02-2025]
  *
  * Descrição:
  * Este programa simula a movimentação de três peças de xadrez: Torre, Bispo e Rainha.
